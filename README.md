@@ -1,3 +1,5 @@
+Note: This was replaced with the [v3](https://github.com/thenick775/personal-website-v3) version
+
 This is the home of my personal website, desktop and mobile friendly.
 
 I thought after a few years and a few jobs, that my website needed a new look!
